@@ -1,0 +1,10 @@
+
+Nome Cliente: juaum
+Sabor de pizza pedido: pe de feijao
+Borda de catupiri: Sim
+Refrigerante incluso: Sim
+Sabor do refrigerante: sangue de gigante
+Tipo de pagamento: A vista
+Tipo de entrega: Domicilio
+Endereco: castelo do gigante
+Telefone: 2131313

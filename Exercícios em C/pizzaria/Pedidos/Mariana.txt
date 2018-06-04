@@ -1,0 +1,8 @@
+
+Nome Cliente: Mariana
+Sabor de pizza pedido: Calabresa
+Borda de catupiri: Sim
+Refrigerante incluso: Nao
+Tipo de pagamento: Debito
+Tipo de entrega: Domicilio
+Endereco: Boca de fumo, montevidelTelefone: 423654654

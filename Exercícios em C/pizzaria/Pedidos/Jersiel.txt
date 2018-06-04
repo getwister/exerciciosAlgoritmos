@@ -1,0 +1,9 @@
+
+Nome Cliente: Jersiel
+Sabor de pizza pedido: Portuguesa
+Borda de catupiri: Sim
+Refrigerante incluso: Nao
+
+Tipo de pagamento: Debito
+Tipo de entrega: Domicilio
+Endereco: Baixao das caraibas, Jardim do mulatoTelefone: 600060529

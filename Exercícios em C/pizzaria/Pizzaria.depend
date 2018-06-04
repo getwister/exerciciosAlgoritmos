@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474257855 source:c:\users\alexx\desktop\pizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<dirent.h>
+
+1474313352 source:d:\pizzaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<dirent.h>
+

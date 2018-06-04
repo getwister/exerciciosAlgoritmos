@@ -1,0 +1,9 @@
+
+Nome Cliente: Brenda
+Sabor de pizza pedido: Nordestina
+Borda de catupiri: Nao
+Refrigerante incluso: Sim
+Sabor do refrigerante: coca
+Tipo de pagamento: A vista
+Tipo de entrega: Domicilio
+Endereco: Rua da areiaTelefone: 270522469

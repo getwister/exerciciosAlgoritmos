@@ -1,0 +1,9 @@
+
+Nome Cliente: Geanderson
+Sabor de pizza pedido: Frango
+Borda de catupiri: Sim
+Refrigerante incluso: Nao
+
+Tipo de pagamento: A vista
+Tipo de entrega: Domicilio
+Endereco: Rua dos esportesTelefone: -839535051

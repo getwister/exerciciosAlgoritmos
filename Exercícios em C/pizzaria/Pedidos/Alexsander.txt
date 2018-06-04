@@ -1,0 +1,9 @@
+
+Nome Cliente: Alexsander
+Sabor de pizza pedido: Calabresa
+Borda de catupiri: Sim
+Refrigerante incluso: Sim
+Sabor do refrigerante: Fanta uva
+Tipo de pagamento: A vista
+Tipo de entrega: Presencial
+Telefone: 1672496249

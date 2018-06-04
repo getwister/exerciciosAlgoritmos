@@ -1,0 +1,9 @@
+
+Nome Cliente: Daria
+Sabor de pizza pedido: Calabresa
+Borda de catupiri: Nao
+Refrigerante incluso: Sim
+Sabor do refrigerante: Coca cola
+Tipo de pagamento: Debito
+Tipo de entrega: Presencial
+Telefone: 653646565
